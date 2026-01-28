@@ -2,8 +2,6 @@
 
 # 📝 **Todo App** - Умный планировщик задач
 
-![Todo App Banner](https://via.placeholder.com/800x200/4F46E5/FFFFFF?text=Todo+App+-+Smart+Task+Management)
-*Визуальное представление интерфейса приложения*
 
 [![Go Version](https://img.shields.io/badge/Go-1.21+-00ADD8?style=for-the-badge&logo=go&logoColor=white)](https://golang.org/)
 [![License](https://img.shields.io/badge/License-MIT-blue.svg?style=for-the-badge)](LICENSE)
